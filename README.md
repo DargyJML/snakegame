@@ -13,7 +13,19 @@
 🐍 Detectar la colisión con la cola o cualquier segmento del cuerpo de la serpiente 
 🐍 se aplicará Programación Orientada a Objetos (POO) pata tener una estructura de código más organizada
 
-![image_2022-04-28_19-19-21](https:<//user-images.githubusercontent.com/90289472/165887085-f568b96c-26ab-49e7-bae7-bb2461b2bd6a.png)
+<h1> 📝 Modalidades pedagógicas 📝 </h1>
+
+✏️ Desarrollo individual del la ruta de trabajo establecida
+✏️ Desarrollo de proyecto a traves de magistral con live coding 
+
+<h1> 📊 Criterios de rendimiento 📊</h1> 
+
+✔️ Documentar adecuadamente la información recolectada durante su trabajo autónomo
+✔️ Juego funcional 
+✔️ Buenas prácticas en la organización del repositorio
+
+![image_2022-04-28_19-19-21](https://user-images.githubusercontent.com/90289472/165887608-2e679368-262c-461a-b965-18f39f00784e.png)
+
 
 ![image_2022-04-28_19-12-19](https://user-images.githubusercontent.com/90289472/165887092-604aafad-5039-4a6b-baf0-6eb9337800fb.png)
 
