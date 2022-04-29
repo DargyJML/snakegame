@@ -56,12 +56,8 @@ while game_is_on:
 
     #Detectar la colision de la cola 
     for segment in snake.segments:
-        if segment == snake.head:
-            pass
-        elif snake.head.distance(segment) < 10:
+        if segment != snake.head and segment.distance(snake.head) < 10:
             game_is_on = False
-            scoreboard.game_over()
-
 
 #parte final del codigo 
 screen.exitonclick()
